@@ -24,6 +24,11 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
   (`2026-09-28_Dd0_iCtBlAq_1`, `B_Uh5V4xD4k`)
 - Whatever cures boredom today bores people tomorrow. Keep reinventing length, pacing and
   format before the audience tires of them. (`eQ-ljb2VFdU`, `B_Uh5V4xD4k`)
+- Prefer premises everyone can enjoy over ones that split the room. A polarising genre (horror
+  reactions) can win a cult following but has a built-in ceiling on view duration. (`YRmo9aNAC24`)
+- Do not build a series around a repetitive process (a weight-loss journey, someone painting).
+  The daily routine is boring to watch; show only the moments where something changes.
+  (`YRmo9aNAC24`)
 - Use dramatic irony: let the viewer see the outcome coming before the people on screen do, and
   build the whole video toward that moment. The wait itself holds them. (`IMTetzcc6AE`)
 - Optimise completion rate, not raw watch time. Making videos longer inflates watch time while
@@ -63,7 +68,9 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
     size of the group on purpose: a shared emotion reaches almost everyone, a personal detail
     ("only tall guys get this") reaches a few people very hard. (`B_Uh5V4xD4k`)
   - **Post to my profile**: the sharer uses it to look a certain way. Give them a take that
-    sets them apart while still feeling relatable. (`8DYIqJw5_bw`)
+    sets them apart while still feeling relatable. (`8DYIqJw5_bw`) Opening on a firm claim
+    that splits people works here: viewers on both sides share it to show where they stand.
+    (`RHi26oDdKQI`)
 - Be the "vehicle" for what people want to say: find what many people feel but cannot put into
   words, and say it clearly. They share it because it says what they meant. (`q2_kutIbBxI`)
 - Audit your own sharing first. Go through what you have passed on over the years and work out
@@ -79,6 +86,10 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   the viewer's own. Speed decides it: for a known event, draft posts for each likely outcome in
   advance and publish the moment it lands. A sport that never stops (cricket) is a steady
   source: when a player has a big day, put their name in a title the same day. (`YRmo9aNAC24`)
+  Put the fast take where it can ship in minutes (a text post beats a reel for a live event),
+  and treat the video as the follow-up. (`SkU3J2vWUK8`) For topicality on autopilot, react to
+  memes: memes only exist about what is current, so the format is relevant by design and the
+  meme's subject becomes the title. (`YRmo9aNAC24`)
 - **The opposite take.** Once a view becomes consensus, there is demand for a credible voice
   against it. A strong stance gets traction; fence-sitting does not.
 - **Identity.** "Only people who X will get this" is close to a sure thing. Identity plus
@@ -97,21 +108,26 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 
 ## 3. Starting a page from zero
 
-1. Pick a narrow niche and a memorable page name. Find what is missing in it and shape yourself
+1. Pick a narrow niche and a memorable page name. Quick test: take a topic with an obviously
+   large audience (people management, which every office worker lives with) and ask whether you
+   can name its best creator. If nobody comes to mind, there is room. (`RHi26oDdKQI`) Find what is missing in it and shape yourself
    to fill that gap; a faceless upload with no voice disappears among thousands of identical
    ones, so put a personality on screen. (`eQ-ljb2VFdU`)
-2. Do not post yet. Pull the top 10 videos from the biggest channels in that niche, and cluster
+2. Check your topics against your market's culture before copying formats from abroad. In India
+   the dependable short-form themes were relationships, social inequality, local comedy and
+   strong regional or national identity. (`SkU3J2vWUK8`)
+3. Do not post yet. Pull the top 10 videos from the biggest channels in that niche, and cluster
    them into the 5 or 6 recurring topics. Those titles are proven demand.
    (`2026-10-02_Dd_dODBzpB6_1`)
-3. Start in short-form: it is cheap, so you get several attempts a day instead of one a week,
+4. Start in short-form: it is cheap, so you get several attempts a day instead of one a week,
    and an early win keeps you going. Move the audience to long-form once you have one.
    (`75tkthAzZog`)
-4. For the first 1,000 views, ask friends with real followings to put a good video on their
+5. For the first 1,000 views, ask friends with real followings to put a good video on their
    stories, then let the platform take over. Who reshares matters more than how many.
    (`75tkthAzZog`)
-5. Treat long-form as the anchor. A big YouTube audience tends to follow you to other
+6. Treat long-form as the anchor. A big YouTube audience tends to follow you to other
    platforms; a big Instagram audience rarely comes back the other way. (`8DYIqJw5_bw`)
-6. Run "spikes and waves". About once a week, ship a spike (a collab, or a special you tease
+7. Run "spikes and waves". About once a week, ship a spike (a collab, or a special you tease
    for days) to pull in new viewers; fill the gaps with steady routine uploads that keep them
    until the next spike. Measure fans who turn on notifications, not views alone. A new channel
    cannot afford one big swing a month; that pace is only for people who already have an
@@ -120,8 +136,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 ## 4. Find your angle: "comedy plus X"
 
 - Treat comedy (or any style) as the medium, not the content; the subject is what you carry
-  inside it. Compete on your combination: style plus real curiosity. (`2026-09-23_DdooXuFSmLq_1`,
-  `2026-10-04_DeE8mP3TQlu_1`)
+  inside it. Compete on your combination: style plus real curiosity. List your side interests
+  (a comic who is also a serious quizzer) and pair them; once the pairing works, each world
+  feeds the other. (`2026-09-23_DdooXuFSmLq_1`, `2026-10-04_DeE8mP3TQlu_1`, `RHi26oDdKQI`)
 - When a medium gets crowded, perspective beats volume. Jokes are everywhere now (memes,
   tweets); opinions and stories are scarce, and the stand-up that broke through was story-driven
   with a strong point of view. (`4Any9xEl-qA`, `hKGe6WbHpWY`)
@@ -142,6 +159,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   needs travel or special access wears you out. (`JjDjDvNgkFo`)
 - A react or review format built on clips that already went viral has a quality floor: your
   only job is to add something on top and not be the boring part. (`IMTetzcc6AE`)
+- Once comedy is a medium rather than an occasion, connection matters more than craft. People
+  only laugh along with someone they like, and that comes from being open about your flaws.
+  (`SkU3J2vWUK8`)
 - Know yourself well; it is how you find what you share with millions of people, and that
   common ground is what the audience comes for. His habit: an hour a night with the phone away,
   journaling thoughts and feelings. (`q2_kutIbBxI`)
@@ -173,7 +193,11 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - When a video hits, turn it into a series on the same premise. Give a new series about three
   episodes; if none comes close to the original, drop it and try the next one. (`hKGe6WbHpWY`)
 
-### Format succession (`IMTetzcc6AE`)
+### Format succession (`IMTetzcc6AE`, `YRmo9aNAC24`)
+
+- Run the channel like a TV network: each working format is a show in a slot, and your standing
+  job is scheduling the next show. Start a new one from something you find fun, and treat the
+  first shoot as the test: if the room is reacting while you film, the audience probably will.
 
 - Expect a winning format to wear out in about three months. Before it does, run a string of
   cheap tests of new formats, expect most to flop, and have the next one live as the current
@@ -229,6 +253,11 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   build a business out of your craft skill, as a comedy writer moving into advertising and
   advising startups. Co-found with past collaborators who run operations; your one job stays
   growing the audience. (`JjDjDvNgkFo`)
+- Do not expect the videos themselves to pay. Like a cricketer's endorsements or a singer's live
+  shows, the money sits around the main work; the asset is distribution and a brand people
+  connect with. (`YRmo9aNAC24`)
+- In a niche, trust turns into money fastest through a service that fits it (a nutrition plan,
+  an interiors consultancy): you are the product and can charge from day one. (`RHi26oDdKQI`)
 - If you build a business on your audience, a service business is an easier first step than a
   consumer brand. Partner with someone who knows the field, and remember the audience only feeds
   it while you keep finding new viewers. (`75tkthAzZog`)
@@ -264,6 +293,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   practice, `EVu2Uxu_8iU`)
 - When a client says no, ask exactly why. A precise reason becomes a guardrail for the next
   round; vague no's are what stall projects. (`EVu2Uxu_8iU`)
+- Guard access to big names once you have it. Never spend a connection on a request that wastes
+  their time (a fan-style "can I come on", a selfie); approach them only the way you would want
+  to be approached. (`YRmo9aNAC24`)
 - Build your space so makers are always around: a room for collaborators who stay for days, a
   writers' room next to the set. Constant company of people making things keeps ideas coming.
   (`YRmo9aNAC24`)
@@ -287,6 +319,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   (`B_Uh5V4xD4k`)
 - Write to the assets you actually have. A concept built on a specific celebrity or prop dies
   without them, so confirm access first. (`B_Uh5V4xD4k`)
+- Premium buyers pay to skip ads on every platform, so paid media barely reaches them. The way
+  in is content they choose to come to because it is useful or entertaining. (`RHi26oDdKQI`)
 - Utility alone is forgettable. Useful and beautiful is what people get attached to, so treat
   polish as loyalty-building, not decoration. (`nWuk46Ifl9E`)
 - Celebrity endorsements work mostly through legitimacy: viewers read "this brand can afford
@@ -324,6 +358,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - When long-time fans ask for the old style back but the new one is doing better, follow the
   numbers. Annoying some of them is the price of not staying in a format that is quietly dying.
   (`IMTetzcc6AE`)
+- Taking many projects from zero to one keeps a creator from getting bored; scaling one from one
+  to ten is repetition and routine, dull but valuable. Know which stage you are in.
+  (`YRmo9aNAC24`)
 - Run the career as a "marathon of sprints": push hard on one bet, rest properly, then start the
   next sprint fresh, instead of grinding at one pace until you burn out. (`IMTetzcc6AE`)
 - One viral clip does not make paying fans. People who watch a single video forget you; only
@@ -341,7 +378,14 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   instead of stitching it together from stories, chat groups and meeting links. (`EVu2Uxu_8iU`)
 - Fans who already help each other in your comments are a community waiting for a home. Give
   them one, with topic channels, live voice rooms and good moderators; your first power users
-  come from that group. (`EVu2Uxu_8iU`)
+  come from that group. (`EVu2Uxu_8iU`) A closed space organises an audience, it does not find
+  one: grow on open platforms first. Decide before you open it whether you can moderate it; he
+  shut a server of roughly half a million mostly young members rather than have its posts tied
+  to his name. (`SkU3J2vWUK8`)
+- Use live streams for closeness, not reach. Hours of live, unguarded time are what turn respect
+  for your work into affection for you. (`SkU3J2vWUK8`)
+- Most pile-on hostility is envy or a bad day, and the snarky reply under a big account is often
+  "clout farming" for likes. It tells you little about the work. (`SkU3J2vWUK8`)
 
 ## Review checklist (run on every script)
 

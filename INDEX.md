@@ -39,3 +39,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `EVu2Uxu_8iU` [video](https://www.youtube.com/watch?v=EVu2Uxu_8iU) (Homely By LBB , 2021-01-07): Rising attention thresholds, spike-and-wave cadence, fan communities, creator-led ads
 - `hKGe6WbHpWY` [video](https://www.youtube.com/watch?v=hKGe6WbHpWY) (Aman Dhattarwal, 2022-05-26): Picking the next video, the few numbers worth tracking, and why writing outlasts stand-up
 - `IMTetzcc6AE` [video](https://www.youtube.com/watch?v=IMTetzcc6AE) (Upraised, 2022-06-27): Keeping a channel relevant by replacing formats in short sprints
+- `JjDjDvNgkFo` [video](https://www.youtube.com/watch?v=JjDjDvNgkFo) (Nikhil Kamath, 2023-11-20): Creator panel on getting found, earning beyond brand deals, and staying relevant

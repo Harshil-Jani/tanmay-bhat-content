@@ -37,7 +37,9 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
 - Treat every scene of a long video as its own short, with its own hook and its own closing
   beat. A few great moments carrying filler no longer holds an audience. (`4Any9xEl-qA`)
 - Viewers can tell when a video exists only to keep a schedule. If you are phoning it in,
-  change the format rather than fill the slot. (`EVu2Uxu_8iU`)
+  change the format rather than fill the slot. Consistency only helps if each upload serves
+  the reason people watch you, so name that reason and check every piece against it.
+  (`EVu2Uxu_8iU`, `q2_kutIbBxI`)
 - Teaching? Package the lesson like a short: a few quick points, music, text changing on screen,
   something fun around it. Dry material gives the brain nothing to enjoy. (`EVu2Uxu_8iU`)
 - A short-form view count includes everyone who scrolled past. When the goal is clicks or
@@ -62,6 +64,10 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
     ("only tall guys get this") reaches a few people very hard. (`B_Uh5V4xD4k`)
   - **Post to my profile**: the sharer uses it to look a certain way. Give them a take that
     sets them apart while still feeling relatable. (`8DYIqJw5_bw`)
+- Be the "vehicle" for what people want to say: find what many people feel but cannot put into
+  words, and say it clearly. They share it because it says what they meant. (`q2_kutIbBxI`)
+- Audit your own sharing first. Go through what you have passed on over the years and work out
+  why; those reasons are the template for what others will share. (`q2_kutIbBxI`)
 - For professional audiences, "post to profile" usually wins: make the viewer look smart for
   passing it on.
 
@@ -84,7 +90,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 
 - Check that people care about the topic before reaching for title tricks; a clever paradox
   about something nobody cares about still gets nothing.
-- Learn packaging from yourself: notice what made you click on a video, and why.
+- Learn packaging from yourself: notice what made you click on a video, why you watched one to
+  the end, and why you left another early. Each answer is a possible idea or format.
+  (`JjDjDvNgkFo`, `q2_kutIbBxI`)
 
 ## 3. Starting a page from zero
 
@@ -133,6 +141,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   needs travel or special access wears you out. (`JjDjDvNgkFo`)
 - A react or review format built on clips that already went viral has a quality floor: your
   only job is to add something on top and not be the boring part. (`IMTetzcc6AE`)
+- Know yourself well; it is how you find what you share with millions of people, and that
+  common ground is what the audience comes for. His habit: an hour a night with the phone away,
+  journaling thoughts and feelings. (`q2_kutIbBxI`)
 - Every field has choices that impress fellow practitioners but not the audience. Spot the ones
   aimed at peer approval and drop them when they do nothing for the viewer. (`nWuk46Ifl9E`)
 - Avoid formats where the audience can do your job better. In a react video the comment section
@@ -277,6 +288,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Work content-first: find what is interesting, then where the brand fits. For a campaign that
   runs for weeks, build a repeatable gag that makes people ask "who's next", bold enough to be
   talked about and catchy enough to survive heavy repeats. (`EVu2Uxu_8iU`)
+- Do not hype the ad. A teaser promising how amazing the main piece will be is a warm-up act
+  promising the funniest comedian alive; keep expectations low and over-deliver. (`ooQA94UTk5k`)
 - Separate campaigns that move a number now from brand building, and do not judge one campaign
   on every metric. (`EVu2Uxu_8iU`)
 - A creator mentality means trying to go viral again and again for years, not one stunt.

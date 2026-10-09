@@ -28,3 +28,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 Full-length talks and interviews where he is the main speaker. Summaries are our own words.
 
 - `4Any9xEl-qA` [video](https://www.youtube.com/watch?v=4Any9xEl-qA) (Honestly by Tanmay Bhat, 2023-12-24): How feeds rewire attention, and what that means for editing, formats and creators
+- `6XEK0I9HUk8` [video](https://www.youtube.com/watch?v=6XEK0I9HUk8) (Masters' Union University, 2023-06-14): The recurring triggers that make people share a piece of content

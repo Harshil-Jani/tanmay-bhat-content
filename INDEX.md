@@ -55,3 +55,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `OjsNcrehxRg` [video](https://www.youtube.com/watch?v=OjsNcrehxRg) (Rhea Chakraborty, 2024-10-18): With Zakir Khan on insecurity, craft, money and living in public
 - `0oKfNl14MEc` [video](https://www.youtube.com/watch?v=0oKfNl14MEc) (Zero1 Clips by Zerodha, 2025-09-11): A creator retells the money rules he gave her (second-hand)
 - `-HkBwSazZsM` [video](https://www.youtube.com/watch?v=-HkBwSazZsM) (Nikhil Kamath, 2023-05-14): AI and content panel (2023); no technique clearly his
+- `N5c9ZmaGu58` [video](https://www.youtube.com/watch?v=N5c9ZmaGu58) (All India Bakchod, 2017-02-22): AIB looks back at 2 million subscribers; no technique clearly his

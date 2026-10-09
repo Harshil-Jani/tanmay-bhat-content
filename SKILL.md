@@ -40,6 +40,11 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
   change the format rather than fill the slot. (`EVu2Uxu_8iU`)
 - Teaching? Package the lesson like a short: a few quick points, music, text changing on screen,
   something fun around it. Dry material gives the brain nothing to enjoy. (`EVu2Uxu_8iU`)
+- A short-form view count includes everyone who scrolled past. When the goal is clicks or
+  sales, lean on long-form: ten straight minutes with you builds closeness and click-through.
+  Use shorts to get found. (`JjDjDvNgkFo`)
+- Prefer formats that bring a new audience with every episode (a new guest, the day's news), so
+  each upload pulls in fresh viewers. (`JjDjDvNgkFo`)
 - The real win in short-form is the viewer who opens your profile and watches ten more. Build
   formats people can binge. (`75tkthAzZog`)
 - Followers matter less every year. Platforms keep showing you to people who have clicked on
@@ -74,6 +79,12 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - **Warmth.** Hyper-positive, cute (dogs, babies), nostalgic, or riding a wave of affection for
   someone people already love. A break from a grim feed gets passed on.
 - **Sensation.** Gossip or anything that breaks the everyday.
+
+### Titles and thumbnails (`JjDjDvNgkFo`)
+
+- Check that people care about the topic before reaching for title tricks; a clever paradox
+  about something nobody cares about still gets nothing.
+- Learn packaging from yourself: notice what made you click on a video, and why.
 
 ## 3. Starting a page from zero
 
@@ -114,6 +125,12 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Your audience follows you across formats (sketches, vlogs, reactions) as long as your core
   skill stays the same. When you move to a bigger stage, do not become a stiffer version of
   yourself. (`EVu2Uxu_8iU`)
+- In a crowded category, the format can be the difference, not the opinion. His film reviews
+  are a fast run of jump cuts listing the thoughts he had while watching. Give the category
+  your own repeatable wrapper. (`JjDjDvNgkFo`)
+- Over ten years, judge an angle by how it scales and how tired it makes you. A skill you can
+  apply to any subject (making anything funny) lets you move between genres; an angle that
+  needs travel or special access wears you out. (`JjDjDvNgkFo`)
 - A react or review format built on clips that already went viral has a quality floor: your
   only job is to add something on top and not be the boring part. (`IMTetzcc6AE`)
 - Avoid formats where the audience can do your job better. In a react video the comment section
@@ -188,7 +205,13 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   His own switch took 3 to 4 years to match his old salary. (`75tkthAzZog`)
 - Do not plan on short-form ad revenue. Money comes from long-form ads and brand deals, priced
   on views, genre (finance pays more) and how premium you seem. Fewer deals a year raises the
-  rate. (`75tkthAzZog`)
+  rate. (`75tkthAzZog`) Long-form ad income is bigger than most assume; what sets the rate per
+  view is how long each view lasts and how many viewers come from high-paying regions or pay
+  for Premium. (`JjDjDvNgkFo`)
+- Education and finance creators already have a product (courses); entertainers do not, so
+  build a business out of your craft skill, as a comedy writer moving into advertising and
+  advising startups. Co-found with past collaborators who run operations; your one job stays
+  growing the audience. (`JjDjDvNgkFo`)
 - If you build a business on your audience, a service business is an easier first step than a
   consumer brand. Partner with someone who knows the field, and remember the audience only feeds
   it while you keep finding new viewers. (`75tkthAzZog`)
@@ -207,7 +230,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   without the room laughing. (`9k8Gsb45o5Q`)
 - Use a high-volume channel (a social feed posting several times a day) to test idea
   combinations before committing a bigger production. (`9k8Gsb45o5Q`)
-- Share upside: when a sponsored piece pays, everyone on it gets a cut. (`2026-10-02_Dd_3MbUTgWz_1`)
+- Share upside: when a sponsored piece pays, everyone on it gets a cut, and credit every team
+  member by name and handle in each video. Many creators who faded did so after their team
+  left. (`2026-10-02_Dd_3MbUTgWz_1`, `JjDjDvNgkFo`)
 - Generate wide, then narrow. Collect the best existing work in the category first, then have
   the team pitch around 20 ideas, shortlist about 5, develop those, and keep saying "no winner
   yet" until one clearly lands. (`B_Uh5V4xD4k`)
@@ -242,6 +267,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   (`B_Uh5V4xD4k`)
 - Write to the assets you actually have. A concept built on a specific celebrity or prop dies
   without them, so confirm access first. (`B_Uh5V4xD4k`)
+- Celebrity endorsements work mostly through legitimacy: viewers read "this brand can afford
+  them" as a sign it is trustworthy and here to stay. Booking a big creator sends the same
+  signal. (`JjDjDvNgkFo`)
 - Work content-first: find what is interesting, then where the brand fits. For a campaign that
   runs for weeks, build a repeatable gag that makes people ask "who's next", bold enough to be
   talked about and catchy enough to survive heavy repeats. (`EVu2Uxu_8iU`)
@@ -256,6 +284,17 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 
 ## 10. A career that outlasts the algorithm
 
+- Viewers binge you for a few months and then move on, and creators arrive in batches. Plan
+  for a steady inflow of new viewers, and expect to reinvent yourself every few years or the
+  next batch replaces you. (`JjDjDvNgkFo`)
+- Brand deals are "high rent": you are renting out your time. While still growing, start
+  income streams two, three and four (affiliate, consulting, merch, a business) and try them
+  all, since you cannot predict what your audience will pay for. (`JjDjDvNgkFo`)
+- Build income your opinions cannot touch before taking strong public stands. Brand money is
+  first to leave when the comments turn; financial security buys the freedom to speak.
+  (`JjDjDvNgkFo`)
+- If growth stalls, a marketing job is a ready exit: brand marketing is mostly judging what will
+  work, and you have practised that through more attempts than most marketers. (`JjDjDvNgkFo`)
 - Track views per subscriber as your relevance signal; it drifts down as a channel ages. Measure
   each new push against your own best results, not your subscriber count. (`IMTetzcc6AE`)
 - When long-time fans ask for the old style back but the new one is doing better, follow the

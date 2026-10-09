@@ -56,3 +56,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `0oKfNl14MEc` [video](https://www.youtube.com/watch?v=0oKfNl14MEc) (Zero1 Clips by Zerodha, 2025-09-11): A creator retells the money rules he gave her (second-hand)
 - `-HkBwSazZsM` [video](https://www.youtube.com/watch?v=-HkBwSazZsM) (Nikhil Kamath, 2023-05-14): AI and content panel (2023); no technique clearly his
 - `N5c9ZmaGu58` [video](https://www.youtube.com/watch?v=N5c9ZmaGu58) (All India Bakchod, 2017-02-22): AIB looks back at 2 million subscribers; no technique clearly his
+- `B5de_3b7H8M` [video](https://www.youtube.com/watch?v=B5de_3b7H8M) (Tiny Talks, 2024-11-04): Personality game with Zakir Khan; no content technique

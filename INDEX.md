@@ -10,3 +10,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-09-28_Dd0_iCtBlAq_1` [post](https://www.instagram.com/reel/Dd0_iCtBlAq/): Prediction and surprise: why the beat drop works, and what beats it
 - `2026-09-29_Dd3ynUGSRSJ_1` [post](https://www.instagram.com/reel/Dd3ynUGSRSJ/): Pitching scripts in a writers' room: read the room, give ground, build trust
 - `2026-09-29_Dd4QXwYust3_1` [post](https://www.instagram.com/reel/Dd4QXwYust3/): Growing a page from zero: study the top 10, then optimise watch time and shares
+- `2026-09-30_Dd6g0w2zUVp_1` [post](https://www.instagram.com/reel/Dd6g0w2zUVp/): A page you grew says more than a resume

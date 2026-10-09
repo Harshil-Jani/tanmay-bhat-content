@@ -77,7 +77,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 
 - **Topic of the day.** A ready-made opinion on what everyone is discussing gets forwarded as
   the viewer's own. Speed decides it: for a known event, draft posts for each likely outcome in
-  advance and publish the moment it lands.
+  advance and publish the moment it lands. A sport that never stops (cricket) is a steady
+  source: when a player has a big day, put their name in a title the same day. (`YRmo9aNAC24`)
 - **The opposite take.** Once a view becomes consensus, there is demand for a credible voice
   against it. A strong stance gets traction; fence-sitting does not.
 - **Identity.** "Only people who X will get this" is close to a sure thing. Identity plus
@@ -192,6 +193,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Read the channel monthly, not video by video. The per-upload dashboard compares each video to
   the last ten and works like a stock ticker: built to make you anxious.
 - Keep a short list: the monthly trend, comments per video, unique viewers.
+- Read click-through and average view duration together. A topic people are curious about but
+  cannot sit through gets the clicks and then a fast drop-off; that format has failed even if a
+  small group loves it. (`YRmo9aNAC24`)
 - Comments are a leading signal. Months with more comments brought more new subscribers on his
   channel, so script moments that make people want to reply.
 - Re-check format rules against how the platform works today. "Every video must pass 10
@@ -260,6 +264,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   practice, `EVu2Uxu_8iU`)
 - When a client says no, ask exactly why. A precise reason becomes a guardrail for the next
   round; vague no's are what stall projects. (`EVu2Uxu_8iU`)
+- Build your space so makers are always around: a room for collaborators who stay for days, a
+  writers' room next to the set. Constant company of people making things keeps ideas coming.
+  (`YRmo9aNAC24`)
 - Working up close with a bigger creator shortens the climb a lot. (`75tkthAzZog`)
 
 ## 9. Content for brands

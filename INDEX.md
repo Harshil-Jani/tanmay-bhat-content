@@ -9,3 +9,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-09-27_DdyGysVt2HD_1` [post](https://www.instagram.com/reel/DdyGysVt2HD/): From resenting money to seeing it as time and freedom
 - `2026-09-28_Dd0_iCtBlAq_1` [post](https://www.instagram.com/reel/Dd0_iCtBlAq/): Prediction and surprise: why the beat drop works, and what beats it
 - `2026-09-29_Dd3ynUGSRSJ_1` [post](https://www.instagram.com/reel/Dd3ynUGSRSJ/): Pitching scripts in a writers' room: read the room, give ground, build trust
+- `2026-09-29_Dd4QXwYust3_1` [post](https://www.instagram.com/reel/Dd4QXwYust3/): Growing a page from zero: study the top 10, then optimise watch time and shares

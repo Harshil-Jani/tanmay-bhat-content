@@ -133,6 +133,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   needs travel or special access wears you out. (`JjDjDvNgkFo`)
 - A react or review format built on clips that already went viral has a quality floor: your
   only job is to add something on top and not be the boring part. (`IMTetzcc6AE`)
+- Every field has choices that impress fellow practitioners but not the audience. Spot the ones
+  aimed at peer approval and drop them when they do nothing for the viewer. (`nWuk46Ifl9E`)
 - Avoid formats where the audience can do your job better. In a react video the comment section
   will out-joke the panel every time. (`4Any9xEl-qA`)
 
@@ -267,6 +269,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   (`B_Uh5V4xD4k`)
 - Write to the assets you actually have. A concept built on a specific celebrity or prop dies
   without them, so confirm access first. (`B_Uh5V4xD4k`)
+- Utility alone is forgettable. Useful and beautiful is what people get attached to, so treat
+  polish as loyalty-building, not decoration. (`nWuk46Ifl9E`)
 - Celebrity endorsements work mostly through legitimacy: viewers read "this brand can afford
   them" as a sign it is trustworthy and here to stay. Booking a big creator sends the same
   signal. (`JjDjDvNgkFo`)

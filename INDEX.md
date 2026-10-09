@@ -59,3 +59,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `B5de_3b7H8M` [video](https://www.youtube.com/watch?v=B5de_3b7H8M) (Tiny Talks, 2024-11-04): Personality game with Zakir Khan; no content technique
 - `jfAyMcraHXI` [video](https://www.youtube.com/watch?v=jfAyMcraHXI) (warikoo, 2020-08-17): Short advice to college students; speaker unclear, nothing added
 - `yDyW2vDYoqk` [video](https://www.youtube.com/watch?v=yDyW2vDYoqk) (Sadhguru, 2022-04-14): Conversation with Sadhguru on skepticism and social media; nothing new for creators
+- `EbnGHsVy9-M` [video](https://www.youtube.com/watch?v=EbnGHsVy9-M) (warikoo, 2020-08-10): Ankur Warikoo's story of leaving comfort; Tanmay mostly reacts

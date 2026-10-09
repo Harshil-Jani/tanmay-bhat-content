@@ -24,6 +24,8 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
   (`2026-09-28_Dd0_iCtBlAq_1`, `B_Uh5V4xD4k`)
 - Whatever cures boredom today bores people tomorrow. Keep reinventing length, pacing and
   format before the audience tires of them. (`eQ-ljb2VFdU`, `B_Uh5V4xD4k`)
+- Use dramatic irony: let the viewer see the outcome coming before the people on screen do, and
+  build the whole video toward that moment. The wait itself holds them. (`IMTetzcc6AE`)
 - Optimise completion rate, not raw watch time. Making videos longer inflates watch time while
   hiding weak retention. His own benchmark: about 70% on average, around 60% for a weak video,
   low-to-mid 70s for a strong one. (`hKGe6WbHpWY`)
@@ -112,6 +114,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Your audience follows you across formats (sketches, vlogs, reactions) as long as your core
   skill stays the same. When you move to a bigger stage, do not become a stiffer version of
   yourself. (`EVu2Uxu_8iU`)
+- A react or review format built on clips that already went viral has a quality floor: your
+  only job is to add something on top and not be the boring part. (`IMTetzcc6AE`)
 - Avoid formats where the audience can do your job better. In a react video the comment section
   will out-joke the panel every time. (`4Any9xEl-qA`)
 
@@ -137,6 +141,21 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   double down on what works, and keep a few experiments running beside it. (`hKGe6WbHpWY`)
 - When a video hits, turn it into a series on the same premise. Give a new series about three
   episodes; if none comes close to the original, drop it and try the next one. (`hKGe6WbHpWY`)
+
+### Format succession (`IMTetzcc6AE`)
+
+- Expect a winning format to wear out in about three months. Before it does, run a string of
+  cheap tests of new formats, expect most to flop, and have the next one live as the current
+  one fades.
+- Build the next format from the mechanism of the last one, not a blank page: work out why the
+  winner works (say, a panel-by-panel build to a punchline) and find a new subject with the
+  same structure.
+- Prefer topics that bring a new group of viewers with them; content about a country or a
+  community tends to pull that group in as followers.
+- A repeating data source (for example, the week's most shared memes) can become a fixed weekly
+  series, and a fixed series can grow into a property of its own.
+- A format that depends on the people or places around you dies when your life changes. Treat
+  that as the cue to find the next one.
 
 ### Numbers to watch (`hKGe6WbHpWY`)
 
@@ -237,6 +256,13 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 
 ## 10. A career that outlasts the algorithm
 
+- Track views per subscriber as your relevance signal; it drifts down as a channel ages. Measure
+  each new push against your own best results, not your subscriber count. (`IMTetzcc6AE`)
+- When long-time fans ask for the old style back but the new one is doing better, follow the
+  numbers. Annoying some of them is the price of not staying in a format that is quietly dying.
+  (`IMTetzcc6AE`)
+- Run the career as a "marathon of sprints": push hard on one bet, rest properly, then start the
+  next sprint fresh, instead of grinding at one pace until you burn out. (`IMTetzcc6AE`)
 - One viral clip does not make paying fans. People who watch a single video forget you; only
   viewers who watch many of your videos become a following that buys tickets. (`hKGe6WbHpWY`)
 - Treat the audience as step one, not the career. Plan as if you had to stop posting in two

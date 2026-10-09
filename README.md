@@ -8,7 +8,7 @@
 
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757?style=flat-square)
 ![Unofficial](https://img.shields.io/badge/unofficial-fan%20project-555?style=flat-square)
-![Clips](https://img.shields.io/badge/sources-34-1f6feb?style=flat-square)
+![Clips](https://img.shields.io/badge/sources-36-1f6feb?style=flat-square)
 
 </div>
 
@@ -69,7 +69,7 @@ That is the whole install. Claude Code picks it up in every project.
 
 ```
 SKILL.md      the playbook and checklist Claude reads
-INDEX.md      every source (20 Instagram clips, 14 YouTube talks), linked to the original
+INDEX.md      every source (20 Instagram clips, 16 YouTube talks), linked to the original
 assets/       photo used in this README
 ```
 

@@ -36,3 +36,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `BTOHpoC-XsE` [video](https://www.youtube.com/watch?v=BTOHpoC-XsE) (Honestly by Tanmay Bhat, 2021-03-26): Personal finance (compound interest); no content technique
 - `c6eC0gF6dHQ` [video](https://www.youtube.com/watch?v=c6eC0gF6dHQ) (YourStory, 2022-02-11): His creative roots, ad process, handling criticism, planning a creator exit
 - `eQ-ljb2VFdU` [video](https://www.youtube.com/watch?v=eQ-ljb2VFdU) (Honestly by Tanmay Bhat, 2020-06-10): Standing out in a niche, reinventing, and learning from your own uploads
+- `EVu2Uxu_8iU` [video](https://www.youtube.com/watch?v=EVu2Uxu_8iU) (Homely By LBB , 2021-01-07): Rising attention thresholds, spike-and-wave cadence, fan communities, creator-led ads

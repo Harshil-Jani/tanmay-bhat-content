@@ -40,3 +40,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `hKGe6WbHpWY` [video](https://www.youtube.com/watch?v=hKGe6WbHpWY) (Aman Dhattarwal, 2022-05-26): Picking the next video, the few numbers worth tracking, and why writing outlasts stand-up
 - `IMTetzcc6AE` [video](https://www.youtube.com/watch?v=IMTetzcc6AE) (Upraised, 2022-06-27): Keeping a channel relevant by replacing formats in short sprints
 - `JjDjDvNgkFo` [video](https://www.youtube.com/watch?v=JjDjDvNgkFo) (Nikhil Kamath, 2023-11-20): Creator panel on getting found, earning beyond brand deals, and staying relevant
+- `nWuk46Ifl9E` [video](https://www.youtube.com/watch?v=nWuk46Ifl9E) (Honestly by Tanmay Bhat, 2022-02-02): Premium brand design with CRED's design team, the road to CRED's ad campaigns

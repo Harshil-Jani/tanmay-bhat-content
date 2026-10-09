@@ -34,3 +34,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `9k8Gsb45o5Q` [video](https://www.youtube.com/watch?v=9k8Gsb45o5Q) (The BarberShop with Shantanu, 2024-10-26): Creative risk, recovering from a flop, and how his writing partnerships work
 - `B_Uh5V4xD4k` [video](https://www.youtube.com/watch?v=B_Uh5V4xD4k) (Masters' Union University, 2023-05-17): Writing ads that get remembered and shared, and running a creative team
 - `BTOHpoC-XsE` [video](https://www.youtube.com/watch?v=BTOHpoC-XsE) (Honestly by Tanmay Bhat, 2021-03-26): Personal finance (compound interest); no content technique
+- `c6eC0gF6dHQ` [video](https://www.youtube.com/watch?v=c6eC0gF6dHQ) (YourStory, 2022-02-11): His creative roots, ad process, handling criticism, planning a creator exit

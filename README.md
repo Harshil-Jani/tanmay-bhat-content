@@ -8,7 +8,7 @@
 
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757?style=flat-square)
 ![Unofficial](https://img.shields.io/badge/unofficial-fan%20project-555?style=flat-square)
-![Clips](https://img.shields.io/badge/source%20clips-20-1f6feb?style=flat-square)
+![Clips](https://img.shields.io/badge/sources-29-1f6feb?style=flat-square)
 
 </div>
 
@@ -36,15 +36,18 @@ Install it and Claude gets a working playbook for making content, built on his i
 
 | | Idea | In one line |
 |---|---|---|
-| 1 | **Retention is everything** | Write for the last second. Save the reveal for the end. |
-| 2 | **Design for the share** | Every video earns either a send-to-a-friend or a post-to-my-profile. Pick one. |
-| 3 | **Start from proven demand** | Before posting, study the top 10 videos in your niche. |
-| 4 | **Comedy plus X** | Your style is the medium; your curiosity is the content. |
-| 5 | **Content is an asymmetric bet** | Small cost, uncapped upside. Volume of good attempts wins. |
-| 6 | **Fit before money** | Enjoy making it first. The business follows. |
-| 7 | **Pitch and team** | Give ground in the room; share upside with the team. |
+| 1 | **Retention is everything** | Write for the last second. Keep the screen alive. Save the reveal for the end. |
+| 2 | **Design for the share** | Pick send-to-a-friend or post-to-my-profile, then pick the trigger that earns it. |
+| 3 | **Start from proven demand** | Study the top 10 in your niche, start short, anchor on long-form. |
+| 4 | **Find your angle** | Your style is the medium; your curiosity and point of view are the content. |
+| 5 | **Reps beat talent** | Most drafts get binned. Loop count builds judgment, not years. |
+| 6 | **Content is an asymmetric bet** | Small cost, uncapped upside. Keep a safe format next to every risky one. |
+| 7 | **Fit before money** | Enjoy it first, keep the job until a year of runway, price on value. |
+| 8 | **Team and pitching** | Generate 20, shortlist 5, cut hard, test on a room that looks like the audience. |
+| 9 | **Content for brands** | Always on, one in-house owner of taste, judged on more than direct return. |
+| 10 | **Outlast the algorithm** | Plan as if you had to stop posting in two years. |
 
-Plus a six-point checklist Claude runs on any script, hook or post you hand it.
+Plus an eight-point checklist Claude runs on any script, hook or post you hand it.
 
 ## Install
 
@@ -66,11 +69,11 @@ That is the whole install. Claude Code picks it up in every project.
 
 ```
 SKILL.md      the playbook and checklist Claude reads
-INDEX.md      all 20 source clips, dated and linked to the original posts
+INDEX.md      every source (20 Instagram clips, 9 YouTube talks), linked to the original
 assets/       photo used in this README
 ```
 
-Every rule in `SKILL.md` names the clip it comes from, so you can always go back to the source
+Every rule in `SKILL.md` names the clip or talk it comes from, so you can always go back to the source
 and hear him say it.
 
 ## Credits and disclaimer
@@ -78,7 +81,8 @@ and hear him say it.
 - **All ideas belong to Tanmay Bhat.** This is an unofficial fan project. It is not affiliated
   with, endorsed by or reviewed by Tanmay Bhat, his team, or the fan page the clips were found on.
 - **Sources:** clips reposted by [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/),
-  excerpted from podcasts and panels credited in each post. Watch the originals; they are better
+  excerpted from podcasts and panels credited in each post, plus full talks on YouTube (his
+  channel *Honestly by Tanmay Bhat* and the shows that hosted him), each linked in `INDEX.md`. Watch the originals; they are better
   than any summary.
 - **No transcripts are redistributed.** The playbook is written in our own words; `INDEX.md`
   only links to the original posts.

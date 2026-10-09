@@ -24,6 +24,11 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
   (`2026-09-28_Dd0_iCtBlAq_1`, `B_Uh5V4xD4k`)
 - Whatever cures boredom today bores people tomorrow. Keep reinventing length, pacing and
   format before the audience tires of them. (`eQ-ljb2VFdU`, `B_Uh5V4xD4k`)
+- Optimise completion rate, not raw watch time. Making videos longer inflates watch time while
+  hiding weak retention. His own benchmark: about 70% on average, around 60% for a weak video,
+  low-to-mid 70s for a strong one. (`hKGe6WbHpWY`)
+- Cut to the creator's own laugh after a punchline. It works like a laugh track and makes the
+  viewer feel they are watching with friends. (`hKGe6WbHpWY`)
 - Keep the screen alive. Every few words something should change: a cut, a slow zoom, a music
   hit, a sound effect, an inserted meme. Put this in the editor's brief as a standing rule.
   (`4Any9xEl-qA`)
@@ -95,8 +100,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Treat comedy (or any style) as the medium, not the content; the subject is what you carry
   inside it. Compete on your combination: style plus real curiosity. (`2026-09-23_DdooXuFSmLq_1`,
   `2026-10-04_DeE8mP3TQlu_1`)
-- When a medium gets crowded, perspective beats volume. The stand-up that broke through was the
-  work with a strong personal point of view, not more one-liners. (`4Any9xEl-qA`)
+- When a medium gets crowded, perspective beats volume. Jokes are everywhere now (memes,
+  tweets); opinions and stories are scarce, and the stand-up that broke through was story-driven
+  with a strong point of view. (`4Any9xEl-qA`, `hKGe6WbHpWY`)
 - Look for what traditional media cannot or will not show, and make that. (`8DYIqJw5_bw`)
 - List what everyone in your category does, then do the opposite: rude where the rest are
   polite, yesterday's stars where everyone casts today's. (`B_Uh5V4xD4k`)
@@ -124,7 +130,21 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Let data choose the area and angle to aim at, then let the creative run freely inside it.
   Numbers cannot write the idea. (`B_Uh5V4xD4k`)
 - Learn how a piece is constructed, not just one platform. Construction carries across TV, ads,
-  YouTube and reels, which is what lets you move when the next medium arrives. (`75tkthAzZog`)
+  YouTube and reels, which is what lets you move when the next medium arrives. Joke writing is
+  the most portable version: it makes a job post or a live stream better too.
+  (`75tkthAzZog`, `hKGe6WbHpWY`)
+- Run the channel like a product team: before each upload ask what this audience wants next,
+  double down on what works, and keep a few experiments running beside it. (`hKGe6WbHpWY`)
+- When a video hits, turn it into a series on the same premise. Give a new series about three
+  episodes; if none comes close to the original, drop it and try the next one. (`hKGe6WbHpWY`)
+
+### Numbers to watch (`hKGe6WbHpWY`)
+
+- Read the channel monthly, not video by video. The per-upload dashboard compares each video to
+  the last ten and works like a stock ticker: built to make you anxious.
+- Keep a short list: the monthly trend, comments per video, unique viewers.
+- Comments are a leading signal. Months with more comments brought more new subscribers on his
+  channel, so script moments that make people want to reply.
 - Re-check format rules against how the platform works today. "Every video must pass 10
   minutes" became "cut everything" within a decade. (`4Any9xEl-qA`)
 - Set the next concrete goal the day you hit one: first million-view video, then a sold-out
@@ -217,6 +237,8 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 
 ## 10. A career that outlasts the algorithm
 
+- One viral clip does not make paying fans. People who watch a single video forget you; only
+  viewers who watch many of your videos become a following that buys tickets. (`hKGe6WbHpWY`)
 - Treat the audience as step one, not the career. Plan as if you had to stop posting in two
   years, and use today's reach to build things no platform can switch off. Plan for the decline
   while still growing. (`c6eC0gF6dHQ`)

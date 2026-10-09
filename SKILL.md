@@ -103,13 +103,18 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
    early win keeps you going. Move the audience to long-form once you have one. (`75tkthAzZog`)
 5. For the first 1,000 views, ask friends with real followings to put a good video on their
    stories, then let the platform take over; who reshares beats how many. Working up close with
-   a bigger creator shortens the climb a lot. (`75tkthAzZog`)
+   a bigger creator shortens the climb a lot. (`75tkthAzZog`) Make early work for the specific
+   people you want to notice you, posted where they already look, and put yourself in the
+   building where the gatekeepers work; his college blog got him a magazine column that way.
+   (`rHdheMfDnFg`)
 6. Treat long-form as the anchor. A big YouTube audience tends to follow you elsewhere; a big
    Instagram audience rarely comes back. (`8DYIqJw5_bw`)
 7. Run "spikes and waves": about weekly, a spike (a collab, or a special teased for days) pulls
    in new viewers; routine uploads keep them until the next. Measure fans who turn on
    notifications, not just views. A new channel cannot afford one big swing a month; that pace
-   suits those with an audience. (`EVu2Uxu_8iU`)
+   suits those with an audience. (`EVu2Uxu_8iU`) He plans it in YouTube's three tiers: "hero"
+   (the rare big piece), "hub" (the special recurring format), "hygiene" (the dependable weekly
+   upload). (`QLrCzQ3VRLc`)
 
 ## 4. Find your angle: "comedy plus X"
 
@@ -125,6 +130,13 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Know yourself to find what you share with millions, the common ground fans come for. His
   habit: an hour a night, phone away, journaling thoughts and feelings. (`q2_kutIbBxI`)
 - Make what traditional media cannot or will not show. (`8DYIqJw5_bw`)
+- Need your own distribution fast? Pick a "content hack": a low-prep format where your
+  personality does the work (for him, gaming streams), so you can ship daily without writing
+  each piece. (`2UDczkt_vaI`, `-GX9vu_gQ_Q`)
+- Entering a field you are not known for (money, fitness, AI)? Come in as a learner, on camera
+  beside someone who knows it, and the "what would he know" doubt goes away. Learning in public
+  draws insiders to you; the mockery is the price. Go deep enough to spot parallels with content:
+  that is how trends get seen early. (`4lhCsuwres4`, `QLrCzQ3VRLc`)
 - A crowded category is still open if you break its conventions. Do the opposite of everyone:
   rude where the rest are polite, yesterday's stars where all cast today's. (`B_Uh5V4xD4k`)
   Break its format rules (long, film-like videos where all make the same short ones); a formula
@@ -137,7 +149,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   (making anything funny) crosses genres; needing travel or special access wears you out.
   (`JjDjDvNgkFo`)
 - React formats on already-viral clips have a quality floor: add something, do not be the
-  boring part. (`IMTetzcc6AE`) Avoid formats where the audience can do your job better: in a
+  boring part. (`IMTetzcc6AE`) Run a react panel as a game: the cast competes live for the best
+  line, cast for contrast (a likeable small-town voice, a deadpan, a loud host who sets the
+  energy), and viewers feel part of it when their joke is picked up. (`4lhCsuwres4`) Avoid formats where the audience can do your job better: in a
   react video the comments out-joke the panel every time. (`4Any9xEl-qA`)
 - Every field has choices that impress fellow practitioners, not the audience. Drop the ones
   aimed at peer approval when they do nothing for the viewer. (`nWuk46Ifl9E`)
@@ -151,6 +165,10 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   in a month than a twice-a-month channel in a year; past about the 150th attempt you can
   predict how a piece will do. Use such a channel to test idea combinations before a bigger
   production. (`75tkthAzZog`, `B_Uh5V4xD4k`, `9k8Gsb45o5Q`)
+- Restarting? Book a fixed daily slot (he booked a room for a stand-up set every evening for 50
+  days) and listen back to each set the same night. (`2UDczkt_vaI`)
+- Take apart work you admire with a peer who knows how it is built: treat jokes, music and
+  video as structure and rhythm, not magic. (`OjsNcrehxRg`)
 - Take a wide range of work early (columns, TV, award shows, ads); it becomes the fluency that
   makes any format easy later. (`c6eC0gF6dHQ`)
 - Learn how a piece is constructed, not one platform: construction carries across TV, ads,
@@ -192,6 +210,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   sit through gets clicks, then a fast drop-off: failed, even if a few love it. (`YRmo9aNAC24`)
 - Comments lead: on his channel, months with more comments brought more new subscribers. Script
   moments that make people want to reply.
+- On a YouTube Premiere, the live concurrent count is an early read on click-through, and the
+  chat shows the reaction. His bar: weaker videos stay under 30 to 40k concurrent, the best pass
+  40k. (`4lhCsuwres4`)
 
 ## 6. Content is an asymmetric bet
 
@@ -208,7 +229,11 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Enjoyment fit comes first, business fit follows. Creating only because it is the thing to do
   burns out. (`2026-09-24_DdrW_s0zCFP_1`)
 - Keep the job while you start; quit only when content alone could carry you for about a year.
-  His own switch took 3 to 4 years to match his old salary. (`75tkthAzZog`)
+  His own switch took 3 to 4 years to match his old salary. (`75tkthAzZog`) Go where the money
+  and attention are now (TV paid him five times what print did), and let a well-paid craft job
+  fund the riskier art: his TV savings carried two years of unpaid stand-up. (`rHdheMfDnFg`)
+- Keep a cash reserve of about three years of costs before investing, so a dry spell in deals
+  cannot force your hand (his advice as retold by a creator he mentored, `0oKfNl14MEc`).
 - Do not plan on short-form ad revenue. Money comes from long-form ads and brand deals, priced
   on views, genre (finance pays more) and how premium you seem; fewer deals a year raise the
   rate. (`75tkthAzZog`) Long-form ad income is bigger than most assume; the per-view rate rises
@@ -228,7 +253,9 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 ## 8. Team, partners and pitching
 
 - Pitch by reading the work and the room. Concede the line you sense will not survive; giving
-  ground buys trust for the rest. (`2026-09-29_Dd3ynUGSRSJ_1`)
+  ground buys trust for the rest. (`2026-09-29_Dd3ynUGSRSJ_1`) Never read to a cold room: spend
+  the first minutes catching up and joking so they find you funny before the script, and never
+  follow something sombre with light material. (`4lhCsuwres4`)
 - When a client says no, ask exactly why. A precise reason becomes a guardrail for the next
   round; vague no's stall projects. (`EVu2Uxu_8iU`)
 - Run small pods that each own one property (say, two editors and a producer); never one person
@@ -248,6 +275,13 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   aim for broad approval of the taste, not unanimity. (`c6eC0gF6dHQ`) After weeks inside a
   script, remember the viewer sees it once, fresh: do not cut bits that made the room laugh the
   first time just because you are tired of them. (`B_Uh5V4xD4k`)
+- Hire for hunger, independence and adaptability, not hours. Ask "which of your opinions do most
+  of your friends disagree with?"; be wary of applicants who mainly want to be near a famous
+  name; a rigid mind is a deal breaker; repeat applications are a good sign. He likes "lazy
+  geniuses" who find the shortest path to a strong idea. (`2UDczkt_vaI`, `-GX9vu_gQ_Q`)
+- Tell each hire their role, what they can learn from you, and that they will leave one day,
+  then back what they build next. His former social team's agency now runs his social media:
+  alumni keep feeding the creator. (`2UDczkt_vaI`, `-GX9vu_gQ_Q`)
 - Guard access to big names: never spend it on a request that wastes their time (a fan-style
   "can I come on", a selfie); approach as you would want to be approached. (`YRmo9aNAC24`)
 - Keep makers always around: a room for collaborators who stay for days, a writers' room next
@@ -282,6 +316,11 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   them, so confirm access first. (`B_Uh5V4xD4k`)
 - Premium buyers pay to skip ads on every platform, so paid media barely reaches them; reach
   them with content they choose because it is useful or entertaining. (`RHi26oDdKQI`)
+- A sketch and an ad are the same skill: decide the one thing the viewer should feel or do at
+  the end; in an ad that end point is a product. (`QLrCzQ3VRLc`)
+- An agency's weak ads stay anonymous; a creator-led shop's flops land on the creator's name.
+  Judge yourself on the next piece out, and ask before every release whether this client will
+  want to come back. (`QLrCzQ3VRLc`)
 - Utility alone is forgettable; people get attached to useful and beautiful. Polish is
   loyalty-building, not decoration. (`nWuk46Ifl9E`)
 - Celebrity endorsements work mostly through legitimacy: "this brand can afford them" reads as
@@ -324,7 +363,19 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   roughly half a million mostly young members rather than have its posts tied to his name.
   (`SkU3J2vWUK8`)
 - Use live streams for closeness, not reach. Hours of live, unguarded time turn respect for
-  your work into affection for you. (`SkU3J2vWUK8`)
+  your work into affection for you. (`SkU3J2vWUK8`) A stream holds people when someone dropping
+  in halfway can read the situation at a glance, like a scoreline; open drop-in talk has no such
+  state. Put stakes on the ending (a forfeit, a reveal) and go live at your market's peak hour
+  (for him, about 9 pm India time). (`4lhCsuwres4`)
+- Magazine lists, covers and prestige shows mostly serve the outlet. Ask what you get, accept
+  only hosts you trust; a status appearance can still be worth it for the status.
+  (`4lhCsuwres4`)
+- Running a company as a creator? Hire a dedicated CEO. An artist's attention drifts back to the
+  work, and a 40-person company needs someone whose only focus is the business. (`2UDczkt_vaI`)
+- Do not let your self-worth rest on output or approval; he calls that dependence an
+  occupational illness of creators. Build an identity outside the channel before it stops.
+  (`2UDczkt_vaI`) Public work trains a harsher inner critic; judge the body of work on whether
+  you made it honestly and your way, not on each verdict. (`OjsNcrehxRg`)
 - Most pile-on hostility is envy or a bad day; the snarky reply under a big account is often
   "clout farming" for likes and says little about the work. (`SkU3J2vWUK8`) Still, read hostile
   comments as a preview of how critics will come at you once bigger, and prepare; the precise

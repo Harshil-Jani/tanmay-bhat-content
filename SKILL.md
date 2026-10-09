@@ -29,6 +29,10 @@ talks. Each rule names its source id; `INDEX.md` links every id to the original.
   (`4Any9xEl-qA`)
 - Treat every scene of a long video as its own short, with its own hook and its own closing
   beat. A few great moments carrying filler no longer holds an audience. (`4Any9xEl-qA`)
+- Viewers can tell when a video exists only to keep a schedule. If you are phoning it in,
+  change the format rather than fill the slot. (`EVu2Uxu_8iU`)
+- Teaching? Package the lesson like a short: a few quick points, music, text changing on screen,
+  something fun around it. Dry material gives the brain nothing to enjoy. (`EVu2Uxu_8iU`)
 - The real win in short-form is the viewer who opens your profile and watches ten more. Build
   formats people can binge. (`75tkthAzZog`)
 - Followers matter less every year. Platforms keep showing you to people who have clicked on
@@ -80,6 +84,11 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
    (`75tkthAzZog`)
 5. Treat long-form as the anchor. A big YouTube audience tends to follow you to other
    platforms; a big Instagram audience rarely comes back the other way. (`8DYIqJw5_bw`)
+6. Run "spikes and waves". About once a week, ship a spike (a collab, or a special you tease
+   for days) to pull in new viewers; fill the gaps with steady routine uploads that keep them
+   until the next spike. Measure fans who turn on notifications, not views alone. A new channel
+   cannot afford one big swing a month; that pace is only for people who already have an
+   audience. (`EVu2Uxu_8iU`)
 
 ## 4. Find your angle: "comedy plus X"
 
@@ -91,6 +100,12 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - Look for what traditional media cannot or will not show, and make that. (`8DYIqJw5_bw`)
 - List what everyone in your category does, then do the opposite: rude where the rest are
   polite, yesterday's stars where everyone casts today's. (`B_Uh5V4xD4k`)
+- A crowded niche is still open if you break its format rules, for example long, film-like
+  videos where everyone else makes the same short ones. A formula that is tired for one
+  audience can feel new to another. (`EVu2Uxu_8iU`)
+- Your audience follows you across formats (sketches, vlogs, reactions) as long as your core
+  skill stays the same. When you move to a bigger stage, do not become a stiffer version of
+  yourself. (`EVu2Uxu_8iU`)
 - Avoid formats where the audience can do your job better. In a react video the comment section
   will out-joke the panel every time. (`4Any9xEl-qA`)
 
@@ -163,6 +178,11 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   that made the room laugh the first time just because you are tired of them. (`B_Uh5V4xD4k`)
 - Test on a room that looks like the audience, and aim for broad approval of the taste, not
   unanimous agreement. (`c6eC0gF6dHQ`)
+- Keep an "insight Bible": the team logs everyday observations by topic as they happen, so
+  when a brief lands you already have raw material for ten ideas in a couple of hours. (AIB
+  practice, `EVu2Uxu_8iU`)
+- When a client says no, ask exactly why. A precise reason becomes a guardrail for the next
+  round; vague no's are what stall projects. (`EVu2Uxu_8iU`)
 - Working up close with a bigger creator shortens the climb a lot. (`75tkthAzZog`)
 
 ## 9. Content for brands
@@ -183,6 +203,14 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
   (`B_Uh5V4xD4k`)
 - Write to the assets you actually have. A concept built on a specific celebrity or prop dies
   without them, so confirm access first. (`B_Uh5V4xD4k`)
+- Work content-first: find what is interesting, then where the brand fits. For a campaign that
+  runs for weeks, build a repeatable gag that makes people ask "who's next", bold enough to be
+  talked about and catchy enough to survive heavy repeats. (`EVu2Uxu_8iU`)
+- Separate campaigns that move a number now from brand building, and do not judge one campaign
+  on every metric. (`EVu2Uxu_8iU`)
+- A creator mentality means trying to go viral again and again for years, not one stunt.
+  Established brands should build an in-house creator team; startups can bring a creator in
+  early. Hire marketers who make their own content and sometimes fail at it. (`EVu2Uxu_8iU`)
 - When pitching, name the knock-on value beyond views: easier hiring, proud employees, easier
   sales. The best clients act as collaborators and have a founder who has said a miss is fine.
   (`B_Uh5V4xD4k`)
@@ -197,6 +225,12 @@ Pick one before scripting. With no clear trigger, default to warm and cheerful.
 - More followers is not the only route to more brand money. Creators who give real value earn
   more per fan than pure entertainers, whose pull fades; look for deals where the audience
   gains too. (`c6eC0gF6dHQ`)
+- Do not live on brand money alone. Earn directly from fans (a paid inner circle, where a few
+  thousand monthly members is a real income) or from utility, and make paying frictionless
+  instead of stitching it together from stories, chat groups and meeting links. (`EVu2Uxu_8iU`)
+- Fans who already help each other in your comments are a community waiting for a home. Give
+  them one, with topic channels, live voice rooms and good moderators; your first power users
+  come from that group. (`EVu2Uxu_8iU`)
 
 ## Review checklist (run on every script)
 

@@ -16,3 +16,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-10-02_Dd_3MbUTgWz_1` [post](https://www.instagram.com/reel/Dd_3MbUTgWz/): Keeping a team: everyone gets a cut of sponsored work
 - `2026-10-02_Dd_dODBzpB6_1` [post](https://www.instagram.com/reel/Dd_dODBzpB6/): Growing a page from zero (another cut of the same talk): the two kinds of share
 - `2026-10-03_DeCUhvVzh5f_1` [post](https://www.instagram.com/reel/DeCUhvVzh5f/): About him: the advice that pushed Samay Raina into streaming
+- `2026-10-04_DeE8mP3TQlu_1` [post](https://www.instagram.com/reel/DeE8mP3TQlu/): Curiosity as an edge: Kunal Kamra's deep dive into farming

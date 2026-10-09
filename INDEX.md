@@ -19,3 +19,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-10-04_DeE8mP3TQlu_1` [post](https://www.instagram.com/reel/DeE8mP3TQlu/): Curiosity as an edge: Kunal Kamra's deep dive into farming
 - `2026-10-04_DeEj1P-zAs0_1` [post](https://www.instagram.com/reel/DeEj1P-zAs0/): Mostly about him: how comedy writing turned into marketing and ad work
 - `2026-10-05_DeHRNOUTX7r_1` [post](https://www.instagram.com/reel/DeHRNOUTX7r/): About him: Suhani Shah on his careful approach to money
+- `2026-10-06_DeJ183eTDed_1` [post](https://www.instagram.com/reel/DeJ183eTDed/): About him: Ranveer Allahbadia on landing him as an early client

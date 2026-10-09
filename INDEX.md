@@ -58,3 +58,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `N5c9ZmaGu58` [video](https://www.youtube.com/watch?v=N5c9ZmaGu58) (All India Bakchod, 2017-02-22): AIB looks back at 2 million subscribers; no technique clearly his
 - `B5de_3b7H8M` [video](https://www.youtube.com/watch?v=B5de_3b7H8M) (Tiny Talks, 2024-11-04): Personality game with Zakir Khan; no content technique
 - `jfAyMcraHXI` [video](https://www.youtube.com/watch?v=jfAyMcraHXI) (warikoo, 2020-08-17): Short advice to college students; speaker unclear, nothing added
+- `yDyW2vDYoqk` [video](https://www.youtube.com/watch?v=yDyW2vDYoqk) (Sadhguru, 2022-04-14): Conversation with Sadhguru on skepticism and social media; nothing new for creators

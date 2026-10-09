@@ -49,3 +49,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `YOuUD-Tgkxg` [video](https://www.youtube.com/watch?v=YOuUD-Tgkxg) (Honestly by Tanmay Bhat, 2022-04-12): Neuroscience of buying with a panel he hosts; no technique clearly his
 - `2UDczkt_vaI` [video](https://www.youtube.com/watch?v=2UDczkt_vaI) (BeerBiceps, 2020-01-10): Restarting solo after AIB: daily reps, low-prep formats, hiring and leading a team
 - `-GX9vu_gQ_Q` [video](https://www.youtube.com/watch?v=-GX9vu_gQ_Q) (Tanmay Bhat, 2020-01-14): How he hires and why a cheap daily format beats big productions (clip)
+- `rHdheMfDnFg` [video](https://www.youtube.com/watch?v=rHdheMfDnFg) (Upraised, 2022-06-02): From a college blog to print, TV, stand-up and AIB: getting noticed early

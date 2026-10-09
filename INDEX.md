@@ -47,3 +47,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `SkU3J2vWUK8` [video](https://www.youtube.com/watch?v=SkU3J2vWUK8) (Nikhil Kamath, 2023-04-20): From Twitter to YouTube: topical posting, live streams, community servers, online envy
 - `RHi26oDdKQI` [video](https://www.youtube.com/watch?v=RHi26oDdKQI) (The BarberShop with Shantanu, 2024-10-13): Founder and creator panel on brand content, monetising a niche, getting noticed
 - `YOuUD-Tgkxg` [video](https://www.youtube.com/watch?v=YOuUD-Tgkxg) (Honestly by Tanmay Bhat, 2022-04-12): Neuroscience of buying with a panel he hosts; no technique clearly his
+- `2UDczkt_vaI` [video](https://www.youtube.com/watch?v=2UDczkt_vaI) (BeerBiceps, 2020-01-10): Restarting solo after AIB: daily reps, low-prep formats, hiring and leading a team

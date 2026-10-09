@@ -21,3 +21,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-10-05_DeHRNOUTX7r_1` [post](https://www.instagram.com/reel/DeHRNOUTX7r/): About him: Suhani Shah on his careful approach to money
 - `2026-10-06_DeJ183eTDed_1` [post](https://www.instagram.com/reel/DeJ183eTDed/): About him: Ranveer Allahbadia on landing him as an early client
 - `2026-10-07_DeMYoJMTdBW_1` [post](https://www.instagram.com/reel/DeMYoJMTdBW/): Variable rewards: why one viral hit traps creators
+- `2026-10-08_DeO_k7yTpSz_1` [post](https://www.instagram.com/reel/DeO_k7yTpSz/): About him: Sahiba Bali on his mix of creative and analytical

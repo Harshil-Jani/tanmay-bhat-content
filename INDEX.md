@@ -12,3 +12,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-09-29_Dd4QXwYust3_1` [post](https://www.instagram.com/reel/Dd4QXwYust3/): Growing a page from zero: study the top 10, then optimise watch time and shares
 - `2026-09-30_Dd6g0w2zUVp_1` [post](https://www.instagram.com/reel/Dd6g0w2zUVp/): A page you grew says more than a resume
 - `2026-10-01_Dd8zzJDTRFZ_1` [post](https://www.instagram.com/reel/Dd8zzJDTRFZ/): About him: Ashish Chanchlani on watching him think
+- `2026-10-01_Dd9Rxv5TAzC_1` [post](https://www.instagram.com/reel/Dd9Rxv5TAzC/): Why everyone should make content: it trains sales and marketing judgment

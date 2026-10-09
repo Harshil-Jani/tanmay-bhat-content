@@ -42,3 +42,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `JjDjDvNgkFo` [video](https://www.youtube.com/watch?v=JjDjDvNgkFo) (Nikhil Kamath, 2023-11-20): Creator panel on getting found, earning beyond brand deals, and staying relevant
 - `nWuk46Ifl9E` [video](https://www.youtube.com/watch?v=nWuk46Ifl9E) (Honestly by Tanmay Bhat, 2022-02-02): Premium brand design with CRED's design team, the road to CRED's ad campaigns
 - `ooQA94UTk5k` [video](https://www.youtube.com/watch?v=ooQA94UTk5k) (Honestly by Tanmay Bhat, 2023-04-30): Students pitch 24-hour ad campaigns; critique of what makes a brand idea work
+- `q2_kutIbBxI` [video](https://www.youtube.com/watch?v=q2_kutIbBxI) (Badmaash Baatein Clips, 2021-03-02): Advice for new creators: know yourself, study your own habits, say what people feel

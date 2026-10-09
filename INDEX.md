@@ -8,3 +8,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-09-26_DdwCFZwxnXv_1` [post](https://www.instagram.com/reel/DdwCFZwxnXv/): The generation of "ands", and why content is an asymmetric bet
 - `2026-09-27_DdyGysVt2HD_1` [post](https://www.instagram.com/reel/DdyGysVt2HD/): From resenting money to seeing it as time and freedom
 - `2026-09-28_Dd0_iCtBlAq_1` [post](https://www.instagram.com/reel/Dd0_iCtBlAq/): Prediction and surprise: why the beat drop works, and what beats it
+- `2026-09-29_Dd3ynUGSRSJ_1` [post](https://www.instagram.com/reel/Dd3ynUGSRSJ/): Pitching scripts in a writers' room: read the room, give ground, build trust

@@ -22,3 +22,9 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-10-06_DeJ183eTDed_1` [post](https://www.instagram.com/reel/DeJ183eTDed/): About him: Ranveer Allahbadia on landing him as an early client
 - `2026-10-07_DeMYoJMTdBW_1` [post](https://www.instagram.com/reel/DeMYoJMTdBW/): Variable rewards: why one viral hit traps creators
 - `2026-10-08_DeO_k7yTpSz_1` [post](https://www.instagram.com/reel/DeO_k7yTpSz/): About him: Sahiba Bali on his mix of creative and analytical
+
+## YouTube talks
+
+Full-length talks and interviews where he is the main speaker. Summaries are our own words.
+
+- `4Any9xEl-qA` [video](https://www.youtube.com/watch?v=4Any9xEl-qA) (Honestly by Tanmay Bhat, 2023-12-24): How feeds rewire attention, and what that means for editing, formats and creators

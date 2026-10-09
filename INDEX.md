@@ -15,3 +15,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-10-01_Dd9Rxv5TAzC_1` [post](https://www.instagram.com/reel/Dd9Rxv5TAzC/): Why everyone should make content: it trains sales and marketing judgment
 - `2026-10-02_Dd_3MbUTgWz_1` [post](https://www.instagram.com/reel/Dd_3MbUTgWz/): Keeping a team: everyone gets a cut of sponsored work
 - `2026-10-02_Dd_dODBzpB6_1` [post](https://www.instagram.com/reel/Dd_dODBzpB6/): Growing a page from zero (another cut of the same talk): the two kinds of share
+- `2026-10-03_DeCUhvVzh5f_1` [post](https://www.instagram.com/reel/DeCUhvVzh5f/): About him: the advice that pushed Samay Raina into streaming

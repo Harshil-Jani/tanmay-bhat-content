@@ -45,3 +45,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `q2_kutIbBxI` [video](https://www.youtube.com/watch?v=q2_kutIbBxI) (Badmaash Baatein Clips, 2021-03-02): Advice for new creators: know yourself, study your own habits, say what people feel
 - `YRmo9aNAC24` [video](https://www.youtube.com/watch?v=YRmo9aNAC24) (Prateek Singh - LearnApp, 2023-02-09): Testing new formats, reading click-through against watch time, topical titles
 - `SkU3J2vWUK8` [video](https://www.youtube.com/watch?v=SkU3J2vWUK8) (Nikhil Kamath, 2023-04-20): From Twitter to YouTube: topical posting, live streams, community servers, online envy
+- `RHi26oDdKQI` [video](https://www.youtube.com/watch?v=RHi26oDdKQI) (The BarberShop with Shantanu, 2024-10-13): Founder and creator panel on brand content, monetising a niche, getting noticed

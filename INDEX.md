@@ -18,3 +18,4 @@ All clips found via [@tanmaythinks_](https://www.instagram.com/tanmaythinks_/), 
 - `2026-10-03_DeCUhvVzh5f_1` [post](https://www.instagram.com/reel/DeCUhvVzh5f/): About him: the advice that pushed Samay Raina into streaming
 - `2026-10-04_DeE8mP3TQlu_1` [post](https://www.instagram.com/reel/DeE8mP3TQlu/): Curiosity as an edge: Kunal Kamra's deep dive into farming
 - `2026-10-04_DeEj1P-zAs0_1` [post](https://www.instagram.com/reel/DeEj1P-zAs0/): Mostly about him: how comedy writing turned into marketing and ad work
+- `2026-10-05_DeHRNOUTX7r_1` [post](https://www.instagram.com/reel/DeHRNOUTX7r/): About him: Suhani Shah on his careful approach to money

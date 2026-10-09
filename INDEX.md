@@ -50,3 +50,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `2UDczkt_vaI` [video](https://www.youtube.com/watch?v=2UDczkt_vaI) (BeerBiceps, 2020-01-10): Restarting solo after AIB: daily reps, low-prep formats, hiring and leading a team
 - `-GX9vu_gQ_Q` [video](https://www.youtube.com/watch?v=-GX9vu_gQ_Q) (Tanmay Bhat, 2020-01-14): How he hires and why a cheap daily format beats big productions (clip)
 - `rHdheMfDnFg` [video](https://www.youtube.com/watch?v=rHdheMfDnFg) (Upraised, 2022-06-02): From a college blog to print, TV, stand-up and AIB: getting noticed early
+- `4lhCsuwres4` [video](https://www.youtube.com/watch?v=4lhCsuwres4) (Prateek Singh - LearnApp, 2022-12-31): Live and react format design, premiere signals, judging media offers

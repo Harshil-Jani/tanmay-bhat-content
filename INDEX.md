@@ -52,3 +52,4 @@ Full-length talks and interviews where he is the main speaker. Summaries are our
 - `rHdheMfDnFg` [video](https://www.youtube.com/watch?v=rHdheMfDnFg) (Upraised, 2022-06-02): From a college blog to print, TV, stand-up and AIB: getting noticed early
 - `4lhCsuwres4` [video](https://www.youtube.com/watch?v=4lhCsuwres4) (Prateek Singh - LearnApp, 2022-12-31): Live and react format design, premiere signals, judging media offers
 - `QLrCzQ3VRLc` [video](https://www.youtube.com/watch?v=QLrCzQ3VRLc) (KVickBites, 2026-06-25): Learning in public, hero/hub/hygiene planning, risks of a creator-run agency
+- `OjsNcrehxRg` [video](https://www.youtube.com/watch?v=OjsNcrehxRg) (Rhea Chakraborty, 2024-10-18): With Zakir Khan on insecurity, craft, money and living in public

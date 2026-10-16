@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Tanmay Bhat Content Playbook: a Claude skill for retention, shares and growth">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0d12"/><stop offset="0.55" stop-color="#1a1023"/><stop offset="1" stop-color="#3b1408"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff5a1f"/><stop offset="1" stop-color="#ffd23f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#ff5a1f" stop-opacity="0.35"/><stop offset="1" stop-color="#ff5a1f" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <style>
+    .t { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .curve { stroke-dasharray: 900; animation: draw 2.6s ease-out 0.3s backwards; }
+    .dot { animation: pop 0.4s ease-out 2.8s backwards; }
+    .fade { animation: in 0.8s ease-out backwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.4s; } .d3 { animation-delay: 0.7s; }
+    @keyframes draw { from { stroke-dashoffset: 900; } to { stroke-dashoffset: 0; } }
+    @keyframes pop { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .curve, .dot, .fade { animation: none; } }
+  </style>
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <rect width="1280" height="420" fill="url(#glow)"/>
+
+  <g class="t">
+    <rect class="fade d1" x="72" y="70" rx="6" width="196" height="34" fill="#ff5a1f"/>
+    <text class="fade d1" x="170" y="93" text-anchor="middle" font-size="16" font-weight="700" fill="#0d0d12" letter-spacing="2">CLAUDE SKILL</text>
+    <text class="fade d2" x="72" y="170" font-size="64" font-weight="800" fill="#ffffff">Tanmay Bhat</text>
+    <text class="fade d2" x="72" y="240" font-size="64" font-weight="800" fill="#ffffff">Content Playbook</text>
+    <text class="fade d3" x="72" y="300" font-size="26" fill="#c9c3d6">Make content people finish, and send to a friend.</text>
+    <text class="fade d3" x="72" y="356" font-size="22" fill="#8d86a0">built for <tspan fill="#ffd23f" font-weight="700">retention · the share · hooks · growing from zero</tspan></text>
+  </g>
+
+  <!-- retention curve: the dip-and-climb a good script earns -->
+  <g transform="translate(780 90)">
+    <path d="M0 230H420M0 0V230" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text class="t" x="0" y="256" font-size="14" fill="#8d86a0">0s</text>
+    <text class="t" x="420" y="256" font-size="14" fill="#8d86a0" text-anchor="end">last second</text>
+    <text class="t" x="8" y="18" font-size="14" fill="#8d86a0">still watching</text>
+    <path d="M0 40C30 90 60 130 110 150S220 180 300 196 390 208 420 212" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="3" stroke-dasharray="6 8"/>
+    <text class="t" x="20" y="216" font-size="14" fill="#8d86a0">a script that gives it all away upfront</text>
+    <path class="curve" d="M0 40C40 46 70 58 110 62S200 68 260 72 380 78 420 80" fill="none" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
+    <circle class="dot" cx="420" cy="80" r="9" fill="#ffd23f"/>
+    <text class="t dot" x="414" y="116" font-size="15" font-weight="700" fill="#ffd23f" text-anchor="end">reveal saved for last: they stay</text>
+  </g>
+</svg>
